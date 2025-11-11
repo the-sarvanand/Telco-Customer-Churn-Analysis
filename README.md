@@ -1,4 +1,4 @@
-##Telco Customer Churn Analysis Project Summary
+# Telco Customer Churn Analysis 
 
 This end-to-end data analytics project analyzed customer churn patterns for a telecommunications company using a comprehensive three-tool approach. I began with Excel for data cleaning and preprocessing, ensuring data quality by handling missing values and standardizing formats. Using SQL, I performed in-depth analysis to identify key churn drivers, examining contract types, service adoptions, and payment methods. Finally, I built an interactive Power BI dashboard with three detailed pages: Executive Summary showing overall metrics, Customer Demographics revealing segmentation insights, and Service Analysis highlighting bundle performance. The project successfully identified that month-to-month contracts, fiber optic customers, and electronic check payers have the highest churn risk, providing actionable insights for retention strategies and demonstrating the full data analytics lifecycle from raw data to business intelligence.
 
